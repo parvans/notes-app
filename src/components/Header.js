@@ -11,5 +11,4 @@ function Header({handleToggleMode}) {
     </div>
   )
 }
-
 export default Header
